@@ -35,7 +35,7 @@ That's it! Double click `dist/index.html` to see the result.
 - dist/style.css
 - dist/script.js
 
-As target this three files come down to the `dist` directory. This will be done by `gulpfile.js`. So, after your great work just take this directory and put it on the target server. That's all. Really. 
+As target this three files come down to the `dist` directory. And to bring Font Awesome to work we need the `fonts` directory. This will be done by `gulpfile.js`. So, after your great work just take this directory and put it on the target server. That's all. Really. 
 
 ## Working files
 
