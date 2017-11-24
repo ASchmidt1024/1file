@@ -18,9 +18,7 @@ Sometimes I have to build a landingpage as one site only and as a brave frontend
 
 ## Installation
 
-First you need Node.js® to run Gulp. Node.js® is a JavaScript runtime.[Go to nodejs.org](https://nodejs.org/) to downlad the latest version for your operation system (Linux, MacOS or ... or ... What was the name of these one main OS again? ... Ah! ... Windo ... Windo ... Windows).
-
-Now with the Node.js package manager (npm) you can install Gulp. Open a console (or terminal or any command line tool) and write these magic words:
+First you need Node.js® to run Gulp. Node.js® is a JavaScript runtime. [Go to nodejs.org](https://nodejs.org/) to downlad the latest version. With the Node.js® package manager (npm) you can install Gulp. Open a console (or terminal or any command line tool) and write these magic words:
 
 	npm install -g gulp
 
