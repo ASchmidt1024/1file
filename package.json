@@ -4,14 +4,14 @@
   "description": "one html, one css and one javascript to rule them all",
   "main": "gulpfile.js",
   "dependencies": {
-    "bootstrap": "^4.0.0-beta.2",
+    "bootstrap": "^4.0.0",
     "font-awesome": "^4.7.0",
     "gulp": "^3.9.1",
     "gulp-concat": "^2.2.0",
     "gulp-sass": "^3.1.0",
     "gulp-uglify": "^3.0.0",
-    "jquery": "^3.2.1",
-    "popper.js": "^1.12.6"
+    "jquery": "^3.3.1",
+    "popper.js": "^1.13.0"
   },
   "devDependencies": {},
   "scripts": {
